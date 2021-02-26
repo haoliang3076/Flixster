@@ -12,7 +12,7 @@
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/AJdV6nb.gif"><br>
+<img src="https://media.giphy.com/media/TCnQ0AlNAQUHeYtWCa/giphy.gif"><br>
 
 ### Notes
 Describe any challenges encountered while building the app.
