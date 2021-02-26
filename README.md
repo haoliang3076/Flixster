@@ -12,7 +12,8 @@
 
 ### App Walkthrough GIF
 
-<img src="https://i.imgur.com/AJdV6nb.gifv" width=250><br>
+<img src="https://i.imgur.com/AJdV6nb.gif" width=250><br>
+
 <img src="https://i.imgur.com/AJdV6nb.gif"><br>
 
 ### Notes
